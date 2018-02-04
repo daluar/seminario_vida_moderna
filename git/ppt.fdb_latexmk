@@ -1,7 +1,7 @@
 # Fdb version 3
-["pdflatex"] 1517750188 "/media/daniel/DATA/UNIVERSIDAD/1718_MUSE_1/seminario_vida_moderna/git/ppt.tex" "ppt.pdf" "ppt" 1517750190
+["pdflatex"] 1517757161 "/media/daniel/DATA/UNIVERSIDAD/1718_MUSE_1/seminario_vida_moderna/git/ppt.tex" "ppt.pdf" "ppt" 1517757163
   "/etc/texmf/web2c/texmf.cnf" 1514584114 475 c0e671620eb5563b2130f56340a5fde8 ""
-  "/media/daniel/DATA/UNIVERSIDAD/1718_MUSE_1/seminario_vida_moderna/git/ppt.tex" 1517750187 3687 b1cba7ada1a58668f2c98f5753140ca9 ""
+  "/media/daniel/DATA/UNIVERSIDAD/1718_MUSE_1/seminario_vida_moderna/git/ppt.tex" 1517757161 4508 3081087968fb6b4cd1839211628e9dd4 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fira/fir_7gpamp.enc" 1480098667 2976 c88b4d9984e79b9c72dba25be4c333fa ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fira/fir_junpg2.enc" 1480098667 3384 960f59fa1d26ffc3a558adaf85d2c974 ""
   "/usr/share/texlive/texmf-dist/fonts/enc/dvips/fira/fir_xbqiro.enc" 1480098667 3094 ecb848f01537f7b15c1a46c97f124130 ""
@@ -286,15 +286,15 @@
   "fig/github/GitHub_Logo.png" 1383026124 13001 cefc20232703e5e3c24efd5f50d75e26 ""
   "fig/gitlab_wm_no_bg.pdf" 1517747901 7747 f5c964f3c4440a93b218728042bc1256 ""
   "fig/phd.jpeg" 1517749795 320079 c0818e825c5265d589e05292f485b3a9 ""
-  "ppt.aux" 1517750189 1830 495d5a4b58fc2024f6e9c6d5578fe142 ""
-  "ppt.nav" 1517750189 658 ec956497e68196700634ca02cd905bde ""
-  "ppt.out" 1517750189 0 d41d8cd98f00b204e9800998ecf8427e ""
-  "ppt.tex" 1517750187 3687 b1cba7ada1a58668f2c98f5753140ca9 ""
+  "ppt.aux" 1517757163 2078 63187bfc011c1f3eee525cee73351374 ""
+  "ppt.nav" 1517757163 834 a9a67d8f3ae6841b0c30d43d080aa057 ""
+  "ppt.out" 1517757162 0 d41d8cd98f00b204e9800998ecf8427e ""
+  "ppt.tex" 1517757161 4508 3081087968fb6b4cd1839211628e9dd4 ""
   (generated)
   "ppt.snm"
+  "ppt.out"
+  "ppt.aux"
+  "ppt.toc"
+  "ppt.nav"
   "ppt.pdf"
   "ppt.log"
-  "ppt.out"
-  "ppt.nav"
-  "ppt.toc"
-  "ppt.aux"
