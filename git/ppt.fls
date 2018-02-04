@@ -337,6 +337,14 @@ INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfcalendar.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/pgf/utilities/pgfcalendar.sty
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfcalendar.code.tex
 INPUT /usr/share/texlive/texmf-dist/tex/generic/pgf/utilities/pgfcalendar.code.tex
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/listings.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/lstmisc.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/listings/listings.cfg
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
+INPUT /usr/share/texlive/texmf-dist/tex/latex/tools/verbatim.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/beamertheme-metropolis/beamerthememetropolis.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/beamertheme-metropolis/beamerthememetropolis.sty
 INPUT /usr/share/texlive/texmf-dist/tex/latex/pgfopts/pgfopts.sty
@@ -489,6 +497,9 @@ INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fira/FiraSans-Book-osf-ts1-
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fira/FiraMono-Bold-tosf-t1.tfm
 INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/fira/FiraMono-Bold-tosf-t1.vf
 INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fira/FiraMono-Bold-tosf-t1--base.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fira/FiraMono-Regular-tosf-t1.tfm
+INPUT /usr/share/texlive/texmf-dist/fonts/vf/public/fira/FiraMono-Regular-tosf-t1.vf
+INPUT /usr/share/texlive/texmf-dist/fonts/tfm/public/fira/FiraMono-Regular-tosf-t1--base.tfm
 INPUT fig/github/GitHub-Mark-120px-plus.png
 INPUT ./fig/github/GitHub-Mark-120px-plus.png
 INPUT ./fig/github/GitHub-Mark-120px-plus.png

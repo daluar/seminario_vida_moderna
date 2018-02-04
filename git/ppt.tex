@@ -19,7 +19,8 @@
 \date{\fecha}
 % \logo{\includegraphics[height=1.5cm]{fig/tres.pdf}}
 
-
+\usepackage{listings}
+\usepackage{verbatim}
 
 % \usetheme{Rochester}
 \usetheme{metropolis}
@@ -89,13 +90,15 @@
 	\end{columns}
 \end{frame}
 
-\begin{frame}\frametitle{¿Para qué puede sernos útil?}
+\begin{frame}\frametitle{¿Para qué?}
 	Es especialmente potente con archivos de texto
 	\begin{itemize}
 		\item Trabajos con Matlab, Fortran, Python, C, GMAT ... cualquier código fuente
 		\item Documentos hechos con \LaTeX
 		\item Cualquier otro archivo de texto (p.ej: datos de resultados): \texttt{.txt}, \texttt{.csv}, \texttt{.dat} ...
 	\end{itemize}
+	$\rightarrow$ Si lo puedes abrir bien con el Notepad, va perfecto
+
 	Con archivos distintos pierdes funcionalidades, por lo que pierde algo de sentido. Requiere ser mucho más organizado
 	\begin{itemize}
 		\item Catia, Excel, Word,...
@@ -130,8 +133,34 @@
 	\end{block}
 \end{frame}
 
+\begin{frame}\frametitle{Configuración}
+	% git config --global user.name "Tu"
+	% git config --global user.email "tu@correo.com"
+	% \begin{lstlisting}
+	% \end{lstlisting}
+\end{frame}
+
+\begin{frame}\frametitle{Comenzar con esto}
+	\begin{verbatim}
+
+		git clone https://gitlab.com/danlub/sdfgsd.git
+
+		cd sdfgsd
+
+		touch README.md
+
+		git add README.md
+
+		git commit -m " add README"
+
+		git push -u origin master
+
+	\end{verbatim}
+\end{frame}
+
 
 \begin{frame}\frametitle{Repositorios remotos (I)}
+
 
 \end{frame}
 
