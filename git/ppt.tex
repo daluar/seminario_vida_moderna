@@ -1,0 +1,104 @@
+\documentclass{beamer}
+
+\usepackage[utf8]{inputenc}
+\usepackage[spanish]{babel}
+\usepackage{tikz}
+\usepackage{booktabs}
+\usepackage{pgfplots}
+% \usepackage{titling} % adds \theauthor \thetitle etc
+\usepgfplotslibrary{dateplot}
+
+\newcommand{\titulo}{Git: software de control de versiones}
+\newcommand{\autor}{Daniel Lubián Arenillas}
+\newcommand{\fecha}{\today}
+\newcommand{\git}{\texttt{git}}
+
+\title{\titulo}
+\author{\autor}
+\institute[IDR/UPM]{IDR/UPM}
+\date{\fecha}
+% \logo{\includegraphics[height=1.5cm]{fig/tres.pdf}}
+
+
+
+% \usetheme{Rochester}
+\usetheme{metropolis}
+\metroset{block=fill, numbering=fraction, sectionpage=progressbar,subsectionpage=progressbar}%,titleformat=smallcaps}
+% \usecolortheme{structure}
+
+% \setbeamertemplate{frame footer}{\autor\,--\,\titulo}
+% \definecolor{azuletsiae}{RGB}{59,80,141}
+% \definecolor{azulclaroetsiae}{RGB}{197,208,228}
+% \definecolor{black1}{RGB}{26,28,34}
+% \setbeamercolor{normal text}{fg=black1}
+% \setbeamercolor{frametitle}{bg=azuletsiae}
+% % \setbeamercolor{frametitle}{bg=black1}
+% \setbeamercolor{progress bar}{fg=black1}
+% \setbeamercolor{progress bar}{fg=azuletsiae,bg=white}
+% \setbeamercolor{progress bar}{fg=azuletsiae,bg=azulclaroetsiae}
+% \titlegraphic{
+	% \includegraphics[width=2cm]{fig/idr.pdf}
+	% \hfill
+	% \includegraphics[width=2cm]{fig/tres.pdf}
+% }
+
+% \usepackage{helvet}
+\usepackage[sfdefault]{FiraSans} %% option 'sfdefault' activates Fira Sans as the default text font
+\usepackage{FiraMono}
+% \usepackage[sfdefault,light,condensed]{roboto}
+\usepackage[T1]{fontenc}
+
+
+
+
+% \AtBeginSection[] % add toc at the beginning of a section, and highlight the next one
+% {\begin{frame}
+% 		\frametitle{Table of Contents}
+% 		\tableofcontents[currentsection]
+% \end{frame}}
+
+% \addtobeamertemplate{frametitle}{}{%
+% 	\begin{tikzpicture}[remember picture,overlay]
+% 	\node[anchor=north east,yshift=1pt] at (current page.north east) {\includegraphics[height=1.4cm]{fig/tres}};
+% 	\end{tikzpicture}}
+
+\begin{document}
+	
+\maketitle
+
+\begin{frame}\frametitle{Índice}
+	\tableofcontents
+\end{frame}
+
+
+
+\begin{frame}[t]\frametitle{¿Qué es \git?}
+	\begin{columns}
+		\begin{column}{0.5\textwidth}
+			\begin{block}{Wikipedia}
+				\git\ es un software de control de versiones diseñado por Linus Torvalds, pensando en la eficiencia y la confiabilidad del mantenimiento de versiones de aplicaciones cuando éstas tienen un gran número de archivos de código fuente
+			\end{block}
+		\end{column}
+		\begin{column}{0.5\textwidth}
+			\centering
+			\includegraphics[width=0.95\textwidth]{fig/git}
+		\end{column}
+	\end{columns}
+\end{frame}
+
+\begin{frame}\frametitle{Repositorios remotos}
+	\begin{columns}
+		\begin{column}{0.5\textwidth}
+			\begin{block}{Github}
+				
+			\end{block}
+		\end{column}
+		\begin{column}{0.5\textwidth}
+			\begin{block}{Gitlab}
+				
+			\end{block}
+		\end{column}
+	\end{columns}
+\end{frame}
+
+\end{document}
