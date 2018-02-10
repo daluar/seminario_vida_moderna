@@ -1,8 +1,8 @@
-PWD D:/UNIVERSIDAD/1718_MUSE_1/seminario_vida_moderna/git
+PWD d:/UNIVERSIDAD/1718_MUSE_1/seminario_vida_moderna/git
 INPUT c:/texlive/2016/texmf.cnf
 INPUT c:/texlive/2016/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2016/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT ./ppt.tex
+INPUT d:/UNIVERSIDAD/1718_MUSE_1/seminario_vida_moderna/git/ppt.tex
 OUTPUT ppt.log
 INPUT c:/texlive/2016/texmf-dist/tex/latex/beamer/beamer.cls
 INPUT c:/texlive/2016/texmf-dist/tex/latex/beamer/beamer.cls
@@ -410,6 +410,15 @@ INPUT ppt.nav
 INPUT ppt.nav
 INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/lato/Lato-Lig-t1.tfm
 INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/lato/Lato-Lig-t1.tfm
+INPUT fig/git_logo.eps
+INPUT ./fig/git_logo.eps
+INPUT ./fig/git_logo.eps
+INPUT ./fig/git_logo-eps-converted-to.pdf
+INPUT ./fig/git_logo-eps-converted-to.pdf
+INPUT ./fig/git_logo.eps
+INPUT ./fig/git_logo-eps-converted-to.pdf
+INPUT ./fig/git_logo-eps-converted-to.pdf
+INPUT ./fig/git_logo-eps-converted-to.pdf
 INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/lato/Lato-Lig-t1.tfm
 INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/lato/Lato-Bol-t1.tfm
 INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/lato/Lato-Lig-t1.tfm
