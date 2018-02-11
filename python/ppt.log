@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.1.29)  11 FEB 2018 12:58
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.1.29)  11 FEB 2018 14:09
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1868,48 +1868,54 @@ Package pdftex.def Info: fig/python.png used on input line 153.
 ] [9
 
 ]
-File: fig/python.png Graphic file (type png)
-
-<use fig/python.png>
-Package pdftex.def Info: fig/python.png used on input line 166.
-(pdftex.def)             Requested size: 22.51883pt x 22.76228pt.
- [10
-
-]
-File: fig/python.png Graphic file (type png)
- <use fig/python.png>
-Package pdftex.def Info: fig/python.png used on input line 184.
-(pdftex.def)             Requested size: 22.51883pt x 22.76228pt.
- [11
-
-]
-LaTeX Font Info:    Font shape `T1/FiraMono-TLF/b/n' will be
-(Font)              scaled to size 10.95pt on input line 194.
+Underfull \hbox (badness 10000) in paragraph at lines 170--170
+ [][]\T1/FiraSans-LF/b/n/10.95 División de enteros[] 
+ []
 
 (c:/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
 File: lstlang1.sty 2015/06/04 1.6 listings language file
-) (./code/if.py)
-File: fig/python.png Graphic file (type png)
-
-<use fig/python.png>
-Package pdftex.def Info: fig/python.png used on input line 194.
-(pdftex.def)             Requested size: 22.51883pt x 22.76228pt.
- [12
-
-] (./code/for.py
+) (./code/int_div.py
+LaTeX Font Info:    Font shape `T1/FiraMono-TLF/b/n' will be
+(Font)              scaled to size 10.95pt on input line 1.
 
 LaTeX Font Warning: Font shape `T1/FiraMono-TLF/m/it' undefined
-(Font)              using `T1/FiraMono-TLF/m/n' instead on input line 8.
+(Font)              using `T1/FiraMono-TLF/m/n' instead on input line 5.
 
 LaTeX Font Info:    Font shape `T1/FiraMono-TLF/m/it' will be
-(Font)              scaled to size 10.95pt on input line 8.
+(Font)              scaled to size 10.95pt on input line 5.
 )
 File: fig/python.png Graphic file (type png)
  <use fig/python.png>
-Package pdftex.def Info: fig/python.png used on input line 202.
+Package pdftex.def Info: fig/python.png used on input line 170.
 (pdftex.def)             Requested size: 22.51883pt x 22.76228pt.
 
-Overfull \vbox (16.10445pt too high) detected at line 202
+Overfull \vbox (22.57939pt too high) detected at line 170
+ []
+
+[10
+
+]
+File: fig/python.png Graphic file (type png)
+ <use fig/python.png>
+Package pdftex.def Info: fig/python.png used on input line 189.
+(pdftex.def)             Requested size: 22.51883pt x 22.76228pt.
+ [11
+
+] (./code/if.py)
+File: fig/python.png Graphic file (type png)
+ <use fig/python.png>
+Package pdftex.def Info: fig/python.png used on input line 197.
+(pdftex.def)             Requested size: 22.51883pt x 22.76228pt.
+ [12
+
+]
+(./code/for.py)
+File: fig/python.png Graphic file (type png)
+ <use fig/python.png>
+Package pdftex.def Info: fig/python.png used on input line 203.
+(pdftex.def)             Requested size: 22.51883pt x 22.76228pt.
+
+Overfull \vbox (16.10445pt too high) detected at line 203
  []
 
 [13
@@ -1918,25 +1924,47 @@ Overfull \vbox (16.10445pt too high) detected at line 202
 LaTeX Font Info:    Font shape `T1/FiraSans-LF/b/sl' in size <10.95> not availa
 ble
 (Font)              Font shape `T1/FiraSans-LF/b/it' tried instead on input lin
-e 210.
+e 209.
 LaTeX Font Info:    Font shape `T1/FiraSans-LF/b/it' will be
-(Font)              scaled to size 10.95pt on input line 210.
+(Font)              scaled to size 10.95pt on input line 209.
  (./code/list_comprehension.py)
 File: fig/python.png Graphic file (type png)
  <use fig/python.png>
-Package pdftex.def Info: fig/python.png used on input line 210.
+Package pdftex.def Info: fig/python.png used on input line 209.
 (pdftex.def)             Requested size: 22.51883pt x 22.76228pt.
  [14
 
 ]
-LaTeX Font Info:    Font shape `T1/FiraMono-TLF/b/n' will be
-(Font)              scaled to size 14.4pt on input line 212.
- [15
+(./code/function.py)
+File: fig/python.png Graphic file (type png)
+ <use fig/python.png>
+Package pdftex.def Info: fig/python.png used on input line 218.
+(pdftex.def)             Requested size: 22.51883pt x 22.76228pt.
 
-] [16
+Overfull \vbox (8.89833pt too high) detected at line 218
+ []
+
+[15
+
+] (./code/importar.py)
+File: fig/python.png Graphic file (type png)
+ <use fig/python.png>
+Package pdftex.def Info: fig/python.png used on input line 224.
+(pdftex.def)             Requested size: 22.51883pt x 22.76228pt.
+
+Overfull \vbox (0.46452pt too high) detected at line 224
+ []
+
+[16
 
 ]
-[17
+LaTeX Font Info:    Font shape `T1/FiraMono-TLF/b/n' will be
+(Font)              scaled to size 14.4pt on input line 226.
+ [17
+
+] [18
+
+] [19
 
 ]
 \tf@nav=\write6
@@ -1948,14 +1976,14 @@ LaTeX Font Info:    Font shape `T1/FiraMono-TLF/b/n' will be
 \tf@snm=\write8
 \openout8 = `ppt.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 218.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 218.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 232.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 232.
  (./ppt.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 218.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 218.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 232.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 232.
 Package rerunfilecheck Info: File `ppt.out' has not changed.
 (rerunfilecheck)             Checksum: E446DEC82D2BF8B9671FAAA8CACE02E6;488.
 
@@ -1964,13 +1992,13 @@ LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 34903 strings out of 493013
- 804112 string characters out of 6136993
- 987455 words of memory out of 5000000
- 37644 multiletter control sequences out of 15000+600000
+ 34945 strings out of 493013
+ 804570 string characters out of 6136993
+ 991380 words of memory out of 5000000
+ 37673 multiletter control sequences out of 15000+600000
  348351 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,13n,98p,1919b,1617s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 64i,13n,98p,1919b,1662s stack positions out of 5000i,500n,10000p,200000b,80000s
 {c:/texlive/2016/texmf-dist/fonts/enc/dvips/fira/fir_pre736.enc}{c:/texlive/2
 016/texmf-dist/fonts/enc/dvips/fira/fir_4vuazg.enc}{c:/texlive/2016/texmf-dist/
 fonts/enc/dvips/fira/fir_junpg2.enc}<c:/texlive/2016/texmf-dist/fonts/type1/pub
@@ -1979,10 +2007,10 @@ FiraMono-Regular.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/fira/FiraSa
 ns-Bold.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/fira/FiraSans-BoldIt
 alic.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/fira/FiraSans-Light.pfb
 ><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
-Output written on ppt.pdf (17 pages, 571340 bytes).
+Output written on ppt.pdf (19 pages, 578573 bytes).
 PDF statistics:
- 205 PDF objects out of 1000 (max. 8388607)
- 160 compressed objects within 2 object streams
- 43 named destinations out of 1000 (max. 500000)
+ 216 PDF objects out of 1000 (max. 8388607)
+ 169 compressed objects within 2 object streams
+ 47 named destinations out of 1000 (max. 500000)
  142 words of extra memory for PDF output out of 10000 (max. 10000000)
 

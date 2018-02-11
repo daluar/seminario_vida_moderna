@@ -31,9 +31,9 @@
 % \usecolortheme{structure}
 
 % \setbeamertemplate{frame footer}{\autor\,--\,\titulo}
-% \definecolor{azuletsiae}{RGB}{59,80,141}
-% \definecolor{azulclaroetsiae}{RGB}{197,208,228}
-% \definecolor{black1}{RGB}{26,28,34}
+\definecolor{azuletsiae}{RGB}{59,80,141}
+\definecolor{azulclaroetsiae}{RGB}{197,208,228}
+\definecolor{black1}{RGB}{26,28,34}
 % \setbeamercolor{normal text}{fg=black1}
 % \setbeamercolor{frametitle}{bg=azuletsiae}
 % % \setbeamercolor{frametitle}{bg=black1}
@@ -163,6 +163,10 @@
 		Complejo 			& \texttt{complex} 			& \texttt{1. + 2j} \\
 		Booleano 			& \texttt{boolean} 			& \texttt{True} \\
 	\end{tabular}
+
+	\begin{alertblock}{División de enteros}
+		\lstinputlisting[language=Python]{code/int_div.py}
+	\end{alertblock}
 \end{frame}
 
 \begin{frame}\frametitle{Contenedores}
@@ -174,39 +178,49 @@
 
 	\textbf{Diccionarios} $\rightarrow$ \texttt{d = \{ '1': 2, 'el': 'perro'\}}
 
-	Ojo: los índices van de \texttt{0} a \texttt{n-1}, como en C: 
-	\begin{itemize}
-		\item \texttt{s[0] = 'p'}
-		\item \texttt{l[-1] = True}
-		\item \texttt{t[3]} no existe
-		\item \texttt{d['el'] = 'dog'}
-	\end{itemize}
+	\begin{alertblock}{Ojo: los índices van de \texttt{0} a \texttt{n-1}, como en C}
+		\begin{itemize}
+			\item \texttt{s[0] = 'p'}
+			\item \texttt{l[-1] = True}
+			\item \texttt{t[3]} no existe
+			\item \texttt{d['el'] = 'dog'}
+		\end{itemize}
+	\end{alertblock}
 \end{frame}
 
-\subsection{Sentencias de control}
+% \subsection{Sentencias de control}
 
 \begin{frame}{Sentencias de control}
-
-\begin{exampleblock}{Condición: \texttt{if-elif-else}}
-	\lstinputlisting[language=Python]{code/if.py}
-\end{exampleblock}
-
+	\begin{block}{Condición: \texttt{if-elif-else}}
+		\lstinputlisting[language=Python]{code/if.py}
+	\end{block}
 \end{frame}
 
 \begin{frame}{Sentencias de control}
-
-	\begin{exampleblock}{Bucle: \texttt{for}}
+	\begin{block}{Bucle: \texttt{for}}
 		\lstinputlisting[language=Python]{code/for.py}
-	\end{exampleblock}
-	
+	\end{block}
 \end{frame}
 
 \begin{frame}{Sentencias de control}
-
-	\begin{exampleblock}{\textsl{List comprehensions}}
+	\begin{block}{\textsl{List comprehensions}}
 		\lstinputlisting[language=Python]{code/list_comprehension.py}
-	\end{exampleblock}
-	
+	\end{block}
+\end{frame}
+
+\begin{frame}\frametitle{Funciones}
+	\begin{block}{Definición}
+		\lstinputlisting[language=Python]{code/function.py}
+	\end{block}
+	\begin{alertblock}{Paso por referencia}
+		Los argumentos de las funciones se pasan por referencia, no por parámetro. Se mete la variable, no una copia, por lo que si se hace alguna modificación a \texttt{x} en el ámbito de la función, \texttt{x} cambiará fuera de la función.
+	\end{alertblock}
+\end{frame}
+
+\begin{frame}\frametitle{Módulos}
+	\begin{block}{Importar}
+		\lstinputlisting[language=Python]{code/importar.py}
+	\end{block}
 \end{frame}
 
 \section{Numpy: el \texttt{ndarray}}

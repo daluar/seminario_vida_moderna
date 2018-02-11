@@ -35,23 +35,27 @@
 \headcommand {\beamer@framepages {13}{13}}
 \headcommand {\slideentry {2}{1}{3}{14/14}{Sentencias de control}{0}}
 \headcommand {\beamer@framepages {14}{14}}
-\headcommand {\sectionentry {3}{Numpy: el \texttt {ndarray}}{15}{Numpy: el \texttt {ndarray}}{0}}
-\headcommand {\beamer@sectionpages {9}{14}}
-\headcommand {\beamer@subsectionpages {12}{14}}
-\headcommand {\slideentry {3}{0}{1}{15/15}{}{0}}
+\headcommand {\slideentry {2}{1}{4}{15/15}{Sentencias de control}{0}}
 \headcommand {\beamer@framepages {15}{15}}
-\headcommand {\sectionentry {4}{Scipy}{16}{Scipy}{0}}
-\headcommand {\beamer@sectionpages {15}{15}}
-\headcommand {\beamer@subsectionpages {15}{15}}
-\headcommand {\slideentry {4}{0}{1}{16/16}{}{0}}
+\headcommand {\slideentry {2}{1}{5}{16/16}{Sentencias de control}{0}}
 \headcommand {\beamer@framepages {16}{16}}
-\headcommand {\sectionentry {5}{Matplotlib.pyplot}{17}{Matplotlib.pyplot}{0}}
-\headcommand {\beamer@sectionpages {16}{16}}
-\headcommand {\beamer@subsectionpages {16}{16}}
-\headcommand {\slideentry {5}{0}{1}{17/17}{}{0}}
+\headcommand {\sectionentry {3}{Numpy: el \texttt {ndarray}}{17}{Numpy: el \texttt {ndarray}}{0}}
+\headcommand {\beamer@sectionpages {9}{16}}
+\headcommand {\beamer@subsectionpages {12}{16}}
+\headcommand {\slideentry {3}{0}{1}{17/17}{}{0}}
 \headcommand {\beamer@framepages {17}{17}}
-\headcommand {\beamer@partpages {1}{17}}
-\headcommand {\beamer@subsectionpages {17}{17}}
+\headcommand {\sectionentry {4}{Scipy}{18}{Scipy}{0}}
 \headcommand {\beamer@sectionpages {17}{17}}
-\headcommand {\beamer@documentpages {17}}
-\headcommand {\def \inserttotalframenumber {11}}
+\headcommand {\beamer@subsectionpages {17}{17}}
+\headcommand {\slideentry {4}{0}{1}{18/18}{}{0}}
+\headcommand {\beamer@framepages {18}{18}}
+\headcommand {\sectionentry {5}{Matplotlib.pyplot}{19}{Matplotlib.pyplot}{0}}
+\headcommand {\beamer@sectionpages {18}{18}}
+\headcommand {\beamer@subsectionpages {18}{18}}
+\headcommand {\slideentry {5}{0}{1}{19/19}{}{0}}
+\headcommand {\beamer@framepages {19}{19}}
+\headcommand {\beamer@partpages {1}{19}}
+\headcommand {\beamer@subsectionpages {19}{19}}
+\headcommand {\beamer@sectionpages {19}{19}}
+\headcommand {\beamer@documentpages {19}}
+\headcommand {\def \inserttotalframenumber {13}}
