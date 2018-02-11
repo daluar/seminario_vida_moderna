@@ -1,0 +1,8 @@
+\select@language {spanish}
+\beamer@sectionintoc {1}{Presentando Python}{3}{0}{1}
+\beamer@subsectionintoc {1}{1}{Librer\IeC {\'\i }as importantes}{7}{0}{1}
+\beamer@subsectionintoc {1}{2}{Programaci\IeC {\'o}n orientada a objetos}{8}{0}{1}
+\beamer@sectionintoc {2}{Sintaxis b\IeC {\'a}sica de Python}{9}{0}{2}
+\beamer@sectionintoc {3}{Numpy: el \texttt {ndarray}}{10}{0}{3}
+\beamer@sectionintoc {4}{Scipy}{11}{0}{4}
+\beamer@sectionintoc {5}{Matplotlib.pyplot}{12}{0}{5}
