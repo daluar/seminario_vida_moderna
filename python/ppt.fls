@@ -554,6 +554,10 @@ INPUT c:/texlive/2016/texmf-dist/fonts/vf/public/fira/FiraMono-Bold-tlf-t1.vf
 INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/fira/FiraMono-Bold-tlf-t1--base.tfm
 INPUT fig/python.png
 INPUT ./fig/python.png
+INPUT c:/texlive/2016/texmf-dist/fonts/vf/public/fira/FiraSans-Book-lf-t1.vf
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/fira/FiraSans-Book-lf-t1--base.tfm
+INPUT c:/texlive/2016/texmf-dist/fonts/vf/public/fira/FiraSans-BookItalic-lf-t1.vf
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/fira/FiraSans-BookItalic-lf-t1--base.tfm
 INPUT code/if.py
 INPUT code/if.py
 INPUT code/if.py
@@ -562,6 +566,16 @@ INPUT ./fig/python.png
 INPUT code/for.py
 INPUT code/for.py
 INPUT code/for.py
+INPUT fig/python.png
+INPUT ./fig/python.png
+INPUT code/while.py
+INPUT code/while.py
+INPUT code/while.py
+INPUT fig/python.png
+INPUT ./fig/python.png
+INPUT code/iter.py
+INPUT code/iter.py
+INPUT code/iter.py
 INPUT fig/python.png
 INPUT ./fig/python.png
 INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/fira/FiraSans-BoldItalic-lf-t1.tfm
@@ -598,5 +612,8 @@ INPUT c:/texlive/2016/texmf-dist/fonts/type1/public/fira/FiraMono-Bold.pfb
 INPUT c:/texlive/2016/texmf-dist/fonts/type1/public/fira/FiraMono-Regular.pfb
 INPUT c:/texlive/2016/texmf-dist/fonts/type1/public/fira/FiraSans-Bold.pfb
 INPUT c:/texlive/2016/texmf-dist/fonts/type1/public/fira/FiraSans-BoldItalic.pfb
+INPUT c:/texlive/2016/texmf-dist/fonts/type1/public/fira/FiraSans-Book.pfb
+INPUT c:/texlive/2016/texmf-dist/fonts/type1/public/fira/FiraSans-BookItalic.pfb
 INPUT c:/texlive/2016/texmf-dist/fonts/type1/public/fira/FiraSans-Light.pfb
+INPUT c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
 INPUT c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb

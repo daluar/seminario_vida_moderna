@@ -170,20 +170,21 @@
 \end{frame}
 
 \begin{frame}\frametitle{Contenedores}
-	\textbf{Cadenas} $\rightarrow$ \texttt{s = "perro"}
+	\textbf{Cadenas} $\rightarrow$ \texttt{s = "perro"} {\tiny inmutable}
 
 	\textbf{Listas} $\rightarrow$ \texttt{l = [1, 'perro', True]}
 
-	\textbf{Tuplas} $\rightarrow$ \texttt{t = (1, 'perro', True)}
+	\textbf{Tuplas} $\rightarrow$ \texttt{t = (1, 'perro', True)} {\tiny inmutable}
 
-	\textbf{Diccionarios} $\rightarrow$ \texttt{d = \{ '1': 2, 'el': 'perro'\}}
+	\textbf{Diccionarios} $\rightarrow$ \texttt{d = \{ 'O': 16, 'H2O': 18\}}
 
 	\begin{alertblock}{Ojo: los índices van de \texttt{0} a \texttt{n-1}, como en C}
 		\begin{itemize}
-			\item \texttt{s[0] = 'p'}
-			\item \texttt{l[-1] = True}
+			\item \texttt{s[0]} devuelve \texttt{'p'}
+			\item \texttt{l[-1]} devuelve \texttt{True}
 			\item \texttt{t[3]} no existe
-			\item \texttt{d['el'] = 'dog'}
+			\item \texttt{d['H2O']} devuelve \texttt{18}
+			\item \texttt{l[0:2]} devuelve \texttt{[1, 'perro']} ($0 \leq i < 2$)
 		\end{itemize}
 	\end{alertblock}
 \end{frame}
@@ -199,6 +200,18 @@
 \begin{frame}{Sentencias de control}
 	\begin{block}{Bucle: \texttt{for}}
 		\lstinputlisting[language=Python]{code/for.py}
+	\end{block}
+\end{frame}
+
+\begin{frame}{Sentencias de control}
+	\begin{block}{Bucle: \texttt{while}}
+		\lstinputlisting[language=Python]{code/while.py}
+	\end{block}
+\end{frame}
+
+\begin{frame}{Sentencias de control}
+	\begin{block}{Iteración avanzada}
+		\lstinputlisting[language=Python]{code/iter.py}
 	\end{block}
 \end{frame}
 
