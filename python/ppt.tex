@@ -22,6 +22,7 @@
 % \logo{\includegraphics[height=1cm]{fig/git_logo.eps}}
 
 \usepackage{listings}
+\lstset{basicstyle=\ttfamily,numbers=left,numberstyle=\tiny}
 \usepackage{verbatim}
 
 % \usetheme{Rochester}
@@ -47,11 +48,11 @@
 
 % \usepackage{helvet}
 
-\usepackage[default]{lato}
-\renewcommand{\mddefault}{l}% switch default weight to light
+% \usepackage[default]{lato}
+% \renewcommand{\mddefault}{l}% switch default weight to light
 
-%\usepackage[sfdefault]{FiraSans} %% option 'sfdefault' activates Fira Sans as the default text font
-%\usepackage{FiraMono}
+\usepackage[sfdefault, light, lining]{FiraSans} %% option 'sfdefault' activates Fira Sans as the default text font
+\usepackage[lining]{FiraMono}
 
 %\usepackage[sfdefault,light]{roboto}
 
@@ -110,6 +111,8 @@
 		\item Mil y una librerías abiertas y gratuitas.
 		\item Rápido y fácil de escribir, puede ser lento de ejecutar.
 	\end{itemize}
+
+	Para escribirlo: Spyder, cuadernos Jupyter, Pycharm, VS Code, Atom, Geany, Notepad++...
 \end{frame}
 
 \subsection{Librerías importantes}
@@ -151,6 +154,60 @@
 
 
 \section{Sintaxis básica de Python}
+
+\begin{frame}\frametitle{Tipos}
+	\centering
+	\begin{tabular}{ccc}
+		Entero 				& \texttt{integer} 			& \texttt{1} \\
+		Con coma flotante	& \texttt{float} 			& \texttt{1.} \\
+		Complejo 			& \texttt{complex} 			& \texttt{1. + 2j} \\
+		Booleano 			& \texttt{boolean} 			& \texttt{True} \\
+	\end{tabular}
+\end{frame}
+
+\begin{frame}\frametitle{Contenedores}
+	\textbf{Cadenas} $\rightarrow$ \texttt{s = "perro"}
+
+	\textbf{Listas} $\rightarrow$ \texttt{l = [1, 'perro', True]}
+
+	\textbf{Tuplas} $\rightarrow$ \texttt{t = (1, 'perro', True)}
+
+	\textbf{Diccionarios} $\rightarrow$ \texttt{d = \{ '1': 2, 'el': 'perro'\}}
+
+	Ojo: los índices van de \texttt{0} a \texttt{n-1}, como en C: 
+	\begin{itemize}
+		\item \texttt{s[0] = 'p'}
+		\item \texttt{l[-1] = True}
+		\item \texttt{t[3]} no existe
+		\item \texttt{d['el'] = 'dog'}
+	\end{itemize}
+\end{frame}
+
+\subsection{Sentencias de control}
+
+\begin{frame}{Sentencias de control}
+
+\begin{exampleblock}{Condición: \texttt{if-elif-else}}
+	\lstinputlisting[language=Python]{code/if.py}
+\end{exampleblock}
+
+\end{frame}
+
+\begin{frame}{Sentencias de control}
+
+	\begin{exampleblock}{Bucle: \texttt{for}}
+		\lstinputlisting[language=Python]{code/for.py}
+	\end{exampleblock}
+	
+\end{frame}
+
+\begin{frame}{Sentencias de control}
+
+	\begin{exampleblock}{\textsl{List comprehensions}}
+		\lstinputlisting[language=Python]{code/list_comprehension.py}
+	\end{exampleblock}
+	
+\end{frame}
 
 \section{Numpy: el \texttt{ndarray}}
 

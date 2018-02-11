@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.1.29)  11 FEB 2018 02:03
+This is pdfTeX, Version 3.14159265-2.6-1.40.17 (TeX Live 2016/W32TeX) (preloaded format=pdflatex 2017.1.29)  11 FEB 2018 12:58
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1283,19 +1283,202 @@ Package: beamerfontthememetropolis 2017/01/23 Metropolis font theme
 Package beamerthememetropolis Warning: You need to compile with XeLaTeX or LuaL
 aTeX to use the Fira fonts on input line 95.
 
-)) (c:/texlive/2016/texmf-dist/tex/latex/lato/lato.sty
-Package: lato 2011/08/06 Lato
+)) (c:/texlive/2016/texmf-dist/tex/latex/fira/FiraSans.sty
+Package: FiraSans 2016/11/20 (Bob Tennent and autoinst) Style file for Fira San
+s fonts.
 
-(c:/texlive/2016/texmf-dist/tex/latex/slantsc/slantsc.sty
-Package: slantsc 2012/01/01 v2.11 Provide Slanted an Italic Small Caps
+(c:/texlive/2016/texmf-dist/tex/latex/xkeyval/xkeyval.sty
+Package: xkeyval 2014/12/03 v2.7a package option processing (HA)
 
-(c:/texlive/2016/texmf-dist/tex/latex/base/ifthen.sty
-Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
+(c:/texlive/2016/texmf-dist/tex/generic/xkeyval/xkeyval.tex
+(c:/texlive/2016/texmf-dist/tex/generic/xkeyval/xkvutils.tex
+\XKV@toks=\toks57
+\XKV@tempa@toks=\toks58
 )
-LaTeX Info: Redefining \upshape on input line 35.
-LaTeX Info: Redefining \slshape on input line 45.
-LaTeX Info: Redefining \itshape on input line 55.
-LaTeX Info: Redefining \scshape on input line 65.
+\XKV@depth=\count193
+File: xkeyval.tex 2014/12/03 v2.7a key=value parser (HA)
+))
+(c:/texlive/2016/texmf-dist/tex/latex/base/textcomp.sty
+Package: textcomp 2017/01/24 v2.0c Standard LaTeX package
+Package textcomp Info: Sub-encoding information:
+(textcomp)               5 = only ISO-Adobe without \textcurrency
+(textcomp)               4 = 5 + \texteuro
+(textcomp)               3 = 4 + \textohm
+(textcomp)               2 = 3 + \textestimated + \textcurrency
+(textcomp)               1 = TS1 - \textcircled - \t
+(textcomp)               0 = TS1 (full)
+(textcomp)             Font families with sub-encoding setting implement
+(textcomp)             only a restricted character set as indicated.
+(textcomp)             Family '?' is the default used for unknown fonts.
+(textcomp)             See the documentation for details.
+Package textcomp Info: Setting ? sub-encoding to TS1/1 on input line 79.
+
+(c:/texlive/2016/texmf-dist/tex/latex/base/ts1enc.def
+File: ts1enc.def 2001/06/05 v3.0e (jk/car/fm) Standard LaTeX file
+Now handling font encoding TS1 ...
+... processing UTF-8 mapping file for font encoding TS1
+
+(c:/texlive/2016/texmf-dist/tex/latex/base/ts1enc.dfu
+File: ts1enc.dfu 2016/02/28 v1.1s UTF-8 support for inputenc
+   defining Unicode char U+00A2 (decimal 162)
+   defining Unicode char U+00A3 (decimal 163)
+   defining Unicode char U+00A4 (decimal 164)
+   defining Unicode char U+00A5 (decimal 165)
+   defining Unicode char U+00A6 (decimal 166)
+   defining Unicode char U+00A7 (decimal 167)
+   defining Unicode char U+00A8 (decimal 168)
+   defining Unicode char U+00A9 (decimal 169)
+   defining Unicode char U+00AA (decimal 170)
+   defining Unicode char U+00AC (decimal 172)
+   defining Unicode char U+00AE (decimal 174)
+   defining Unicode char U+00AF (decimal 175)
+   defining Unicode char U+00B0 (decimal 176)
+   defining Unicode char U+00B1 (decimal 177)
+   defining Unicode char U+00B2 (decimal 178)
+   defining Unicode char U+00B3 (decimal 179)
+   defining Unicode char U+00B4 (decimal 180)
+   defining Unicode char U+00B5 (decimal 181)
+   defining Unicode char U+00B6 (decimal 182)
+   defining Unicode char U+00B7 (decimal 183)
+   defining Unicode char U+00B9 (decimal 185)
+   defining Unicode char U+00BA (decimal 186)
+   defining Unicode char U+00BC (decimal 188)
+   defining Unicode char U+00BD (decimal 189)
+   defining Unicode char U+00BE (decimal 190)
+   defining Unicode char U+00D7 (decimal 215)
+   defining Unicode char U+00F7 (decimal 247)
+   defining Unicode char U+0192 (decimal 402)
+   defining Unicode char U+02C7 (decimal 711)
+   defining Unicode char U+02D8 (decimal 728)
+   defining Unicode char U+02DD (decimal 733)
+   defining Unicode char U+0E3F (decimal 3647)
+   defining Unicode char U+2016 (decimal 8214)
+   defining Unicode char U+2020 (decimal 8224)
+   defining Unicode char U+2021 (decimal 8225)
+   defining Unicode char U+2022 (decimal 8226)
+   defining Unicode char U+2030 (decimal 8240)
+   defining Unicode char U+2031 (decimal 8241)
+   defining Unicode char U+203B (decimal 8251)
+   defining Unicode char U+203D (decimal 8253)
+   defining Unicode char U+2044 (decimal 8260)
+   defining Unicode char U+204E (decimal 8270)
+   defining Unicode char U+2052 (decimal 8274)
+   defining Unicode char U+20A1 (decimal 8353)
+   defining Unicode char U+20A4 (decimal 8356)
+   defining Unicode char U+20A6 (decimal 8358)
+   defining Unicode char U+20A9 (decimal 8361)
+   defining Unicode char U+20AB (decimal 8363)
+   defining Unicode char U+20AC (decimal 8364)
+   defining Unicode char U+20B1 (decimal 8369)
+   defining Unicode char U+2103 (decimal 8451)
+   defining Unicode char U+2116 (decimal 8470)
+   defining Unicode char U+2117 (decimal 8471)
+   defining Unicode char U+211E (decimal 8478)
+   defining Unicode char U+2120 (decimal 8480)
+   defining Unicode char U+2122 (decimal 8482)
+   defining Unicode char U+2126 (decimal 8486)
+   defining Unicode char U+2127 (decimal 8487)
+   defining Unicode char U+212E (decimal 8494)
+   defining Unicode char U+2190 (decimal 8592)
+   defining Unicode char U+2191 (decimal 8593)
+   defining Unicode char U+2192 (decimal 8594)
+   defining Unicode char U+2193 (decimal 8595)
+   defining Unicode char U+2329 (decimal 9001)
+   defining Unicode char U+232A (decimal 9002)
+   defining Unicode char U+2422 (decimal 9250)
+   defining Unicode char U+25E6 (decimal 9702)
+   defining Unicode char U+25EF (decimal 9711)
+   defining Unicode char U+266A (decimal 9834)
+))
+LaTeX Info: Redefining \oldstylenums on input line 334.
+Package textcomp Info: Setting cmr sub-encoding to TS1/0 on input line 349.
+Package textcomp Info: Setting cmss sub-encoding to TS1/0 on input line 350.
+Package textcomp Info: Setting cmtt sub-encoding to TS1/0 on input line 351.
+Package textcomp Info: Setting cmvtt sub-encoding to TS1/0 on input line 352.
+Package textcomp Info: Setting cmbr sub-encoding to TS1/0 on input line 353.
+Package textcomp Info: Setting cmtl sub-encoding to TS1/0 on input line 354.
+Package textcomp Info: Setting ccr sub-encoding to TS1/0 on input line 355.
+Package textcomp Info: Setting ptm sub-encoding to TS1/4 on input line 356.
+Package textcomp Info: Setting pcr sub-encoding to TS1/4 on input line 357.
+Package textcomp Info: Setting phv sub-encoding to TS1/4 on input line 358.
+Package textcomp Info: Setting ppl sub-encoding to TS1/3 on input line 359.
+Package textcomp Info: Setting pag sub-encoding to TS1/4 on input line 360.
+Package textcomp Info: Setting pbk sub-encoding to TS1/4 on input line 361.
+Package textcomp Info: Setting pnc sub-encoding to TS1/4 on input line 362.
+Package textcomp Info: Setting pzc sub-encoding to TS1/4 on input line 363.
+Package textcomp Info: Setting bch sub-encoding to TS1/4 on input line 364.
+Package textcomp Info: Setting put sub-encoding to TS1/5 on input line 365.
+Package textcomp Info: Setting uag sub-encoding to TS1/5 on input line 366.
+Package textcomp Info: Setting ugq sub-encoding to TS1/5 on input line 367.
+Package textcomp Info: Setting ul8 sub-encoding to TS1/4 on input line 368.
+Package textcomp Info: Setting ul9 sub-encoding to TS1/4 on input line 369.
+Package textcomp Info: Setting augie sub-encoding to TS1/5 on input line 370.
+Package textcomp Info: Setting dayrom sub-encoding to TS1/3 on input line 371.
+Package textcomp Info: Setting dayroms sub-encoding to TS1/3 on input line 372.
+
+Package textcomp Info: Setting pxr sub-encoding to TS1/0 on input line 373.
+Package textcomp Info: Setting pxss sub-encoding to TS1/0 on input line 374.
+Package textcomp Info: Setting pxtt sub-encoding to TS1/0 on input line 375.
+Package textcomp Info: Setting txr sub-encoding to TS1/0 on input line 376.
+Package textcomp Info: Setting txss sub-encoding to TS1/0 on input line 377.
+Package textcomp Info: Setting txtt sub-encoding to TS1/0 on input line 378.
+Package textcomp Info: Setting lmr sub-encoding to TS1/0 on input line 379.
+Package textcomp Info: Setting lmdh sub-encoding to TS1/0 on input line 380.
+Package textcomp Info: Setting lmss sub-encoding to TS1/0 on input line 381.
+Package textcomp Info: Setting lmssq sub-encoding to TS1/0 on input line 382.
+Package textcomp Info: Setting lmvtt sub-encoding to TS1/0 on input line 383.
+Package textcomp Info: Setting lmtt sub-encoding to TS1/0 on input line 384.
+Package textcomp Info: Setting qhv sub-encoding to TS1/0 on input line 385.
+Package textcomp Info: Setting qag sub-encoding to TS1/0 on input line 386.
+Package textcomp Info: Setting qbk sub-encoding to TS1/0 on input line 387.
+Package textcomp Info: Setting qcr sub-encoding to TS1/0 on input line 388.
+Package textcomp Info: Setting qcs sub-encoding to TS1/0 on input line 389.
+Package textcomp Info: Setting qpl sub-encoding to TS1/0 on input line 390.
+Package textcomp Info: Setting qtm sub-encoding to TS1/0 on input line 391.
+Package textcomp Info: Setting qzc sub-encoding to TS1/0 on input line 392.
+Package textcomp Info: Setting qhvc sub-encoding to TS1/0 on input line 393.
+Package textcomp Info: Setting futs sub-encoding to TS1/4 on input line 394.
+Package textcomp Info: Setting futx sub-encoding to TS1/4 on input line 395.
+Package textcomp Info: Setting futj sub-encoding to TS1/4 on input line 396.
+Package textcomp Info: Setting hlh sub-encoding to TS1/3 on input line 397.
+Package textcomp Info: Setting hls sub-encoding to TS1/3 on input line 398.
+Package textcomp Info: Setting hlst sub-encoding to TS1/3 on input line 399.
+Package textcomp Info: Setting hlct sub-encoding to TS1/5 on input line 400.
+Package textcomp Info: Setting hlx sub-encoding to TS1/5 on input line 401.
+Package textcomp Info: Setting hlce sub-encoding to TS1/5 on input line 402.
+Package textcomp Info: Setting hlcn sub-encoding to TS1/5 on input line 403.
+Package textcomp Info: Setting hlcw sub-encoding to TS1/5 on input line 404.
+Package textcomp Info: Setting hlcf sub-encoding to TS1/5 on input line 405.
+Package textcomp Info: Setting pplx sub-encoding to TS1/3 on input line 406.
+Package textcomp Info: Setting pplj sub-encoding to TS1/3 on input line 407.
+Package textcomp Info: Setting ptmx sub-encoding to TS1/4 on input line 408.
+Package textcomp Info: Setting ptmj sub-encoding to TS1/4 on input line 409.
+)
+(c:/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/01/24 v2.0c Standard LaTeX package
+)
+(c:/texlive/2016/texmf-dist/tex/latex/mweights/mweights.sty
+Package: mweights 2016/12/09 (Bob Tennent) Support package for multiple-weight 
+font packages. 
+LaTeX Info: Redefining \bfseries on input line 21.
+LaTeX Info: Redefining \mdseries on input line 29.
+LaTeX Info: Redefining \rmfamily on input line 37.
+LaTeX Info: Redefining \sffamily on input line 56.
+LaTeX Info: Redefining \ttfamily on input line 75.
+)
+(c:/texlive/2016/texmf-dist/tex/latex/fontaxes/fontaxes.sty
+Package: fontaxes 2014/03/23 v1.0d Font selection axes
+LaTeX Info: Redefining \upshape on input line 29.
+LaTeX Info: Redefining \itshape on input line 31.
+LaTeX Info: Redefining \slshape on input line 33.
+LaTeX Info: Redefining \scshape on input line 37.
+))
+(c:/texlive/2016/texmf-dist/tex/latex/fira/FiraMono.sty
+Package: FiraMono 2016/02/13 (Bob Tennent and autoinst) Style file for Fira Mon
+o fonts.
+
+(c:/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2017/01/24 v2.0c Standard LaTeX package
 ))
 (c:/texlive/2016/texmf-dist/tex/latex/base/fontenc.sty
 Package: fontenc 2017/01/24 v2.0c Standard LaTeX package
@@ -1314,24 +1497,36 @@ LaTeX Info: Redefining \% on input line 23.
 )
 \openout1 = `ppt.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 72.
-LaTeX Font Info:    ... okay on input line 72.
-LaTeX Font Info:    Try loading font information for T1+fla on input line 72.
- (c:/texlive/2016/texmf-dist/tex/latex/lato/t1fla.fd
-File: t1fla.fd 2011/12/25 Fontinst v1.933 font definitions for T1/fla.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 73.
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 73.
+LaTeX Font Info:    Try loading font information for TS1+cmr on input line 73.
+ (c:/texlive/2016/texmf-dist/tex/latex/base/ts1cmr.fd
+File: ts1cmr.fd 2014/09/29 v2.5h Standard LaTeX font definitions
 )
+LaTeX Font Info:    ... okay on input line 73.
+LaTeX Font Info:    Try loading font information for T1+FiraSans-LF on input li
+ne 73.
+
+(c:/texlive/2016/texmf-dist/tex/latex/fira/t1firasans-lf.fd
+File: T1FiraSans-LF.fd 2016/11/12 (autoinst) Font definitions for T1/FiraSans-L
+F.
+)
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/l/n' will be
+(Font)              scaled to size 10.95pt on input line 73.
+
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
 *geometry* verbose mode - [ preamble ] result:
@@ -1368,17 +1563,17 @@ File: t1fla.fd 2011/12/25 Fontinst v1.933 font definitions for T1/fla.
 
 (c:/texlive/2016/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count193
+\scratchcounter=\count194
 \scratchdimen=\dimen291
 \scratchbox=\box61
-\nofMPsegments=\count194
-\nofMParguments=\count195
-\everyMPshowfont=\toks57
-\MPscratchCnt=\count196
+\nofMPsegments=\count195
+\nofMParguments=\count196
+\everyMPshowfont=\toks59
+\MPscratchCnt=\count197
 \MPscratchDim=\dimen292
-\MPnumerator=\count197
-\makeMPintoPDFobject=\count198
-\everyMPtoPDFconversion=\toks58
+\MPnumerator=\count198
+\makeMPintoPDFobject=\count199
+\everyMPtoPDFconversion=\toks60
 ) (c:/texlive/2016/texmf-dist/tex/latex/oberdiek/epstopdf-base.sty
 Package: epstopdf-base 2016/05/15 v2.6 Base part for package epstopdf
 
@@ -1398,7 +1593,7 @@ e
 ))
 ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box62
-Package hyperref Info: Link coloring OFF on input line 72.
+Package hyperref Info: Link coloring OFF on input line 73.
 
 (c:/texlive/2016/texmf-dist/tex/latex/hyperref/nameref.sty
 Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
@@ -1406,58 +1601,65 @@ Package: nameref 2016/05/21 v2.44 Cross-referencing by name of section
 (c:/texlive/2016/texmf-dist/tex/generic/oberdiek/gettitlestring.sty
 Package: gettitlestring 2016/05/16 v1.5 Cleanup title references (HO)
 )
-\c@section@level=\count199
+\c@section@level=\count266
 )
-LaTeX Info: Redefining \ref on input line 72.
-LaTeX Info: Redefining \pageref on input line 72.
-LaTeX Info: Redefining \nameref on input line 72.
+LaTeX Info: Redefining \ref on input line 73.
+LaTeX Info: Redefining \pageref on input line 73.
+LaTeX Info: Redefining \nameref on input line 73.
 
 (./ppt.out) (./ppt.out)
 \@outlinefile=\write5
 \openout5 = `ppt.out'.
 
 LaTeX Font Info:    Overwriting symbol font `operators' in version `normal'
-(Font)                  OT1/cmr/m/n --> OT1/cmss/l/n on input line 72.
+(Font)                  OT1/cmr/m/n --> OT1/cmss/m/n on input line 73.
 LaTeX Font Info:    Overwriting symbol font `operators' in version `bold'
-(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 72.
+(Font)                  OT1/cmr/bx/n --> OT1/cmss/bx/n on input line 73.
 \symnumbers=\mathgroup6
 \sympureletters=\mathgroup7
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/cmss/l/n --> T1/cmr/l/n on input line 72.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 72.
+(Font)                  OT1/cmss/m/n --> T1/cmr/m/n on input line 73.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/cmr/bx/n --> T1/fla/bx/n on input line 72.
+(Font)                  OT1/cmr/bx/n --> T1/FiraSans-LF/bx/n on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/cmr/bx/n --> T1/fla/bx/n on input line 72.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 72.
+(Font)                  OT1/cmr/bx/n --> T1/FiraSans-LF/bx/n on input line 73.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> T1/fla/l/n on input line 72.
+(Font)                  OT1/cmss/m/n --> T1/FiraSans-LF/m/n on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/fla/l/n on input line 72.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 72.
+(Font)                  OT1/cmss/bx/n --> T1/FiraSans-LF/m/n on input line 73.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/cmr/m/it --> T1/fla/l/it on input line 72.
+(Font)                  OT1/cmr/m/it --> T1/FiraSans-LF/m/it on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/cmr/bx/it --> T1/fla/l/it on input line 72.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 72.
+(Font)                  OT1/cmr/bx/it --> T1/FiraSans-LF/m/it on input line 73.
+
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/l/n on input line 72.
+(Font)                  OT1/cmtt/m/n --> T1/FiraMono-TLF/m/n on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> T1/cmtt/l/n on input line 72.
+(Font)                  OT1/cmtt/m/n --> T1/FiraMono-TLF/m/n on input line 73.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  T1/fla/l/n --> T1/fla/bx/n on input line 72.
+(Font)                  T1/FiraSans-LF/m/n --> T1/FiraSans-LF/bx/n on input lin
+e 73.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  T1/fla/l/it --> T1/fla/bx/it on input line 72.
+(Font)                  T1/FiraSans-LF/m/it --> T1/FiraSans-LF/bx/it on input l
+ine 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/cmss/bx/n --> T1/cmr/bx/n on input line 72.
+(Font)                  OT1/cmss/bx/n --> T1/cmr/bx/n on input line 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  T1/fla/bx/n --> T1/fla/bx/n on input line 72.
+(Font)                  T1/FiraSans-LF/bx/n --> T1/FiraSans-LF/bx/n on input li
+ne 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  T1/fla/l/n --> T1/fla/bx/n on input line 72.
+(Font)                  T1/FiraSans-LF/m/n --> T1/FiraSans-LF/bx/n on input lin
+e 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  T1/fla/l/it --> T1/fla/bx/it on input line 72.
+(Font)                  T1/FiraSans-LF/m/it --> T1/FiraSans-LF/bx/it on input l
+ine 73.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  T1/cmtt/l/n --> T1/cmtt/bx/n on input line 72.
+(Font)                  T1/FiraMono-TLF/m/n --> T1/FiraMono-TLF/bx/n on input l
+ine 73.
 
 (c:/texlive/2016/texmf-dist/tex/latex/beamer/translator/dicts/translator-basic-
 dictionary/translator-basic-dictionary-English.dict
@@ -1483,28 +1685,39 @@ Dictionary: translator-numbers-dictionary, Language: English
 m-dictionary/translator-theorem-dictionary-English.dict
 Dictionary: translator-theorem-dictionary, Language: English 
 )
-LaTeX Info: Redefining \includegraphics on input line 72.
-LaTeX Info: Redefining \. on input line 72.
-LaTeX Info: Redefining \% on input line 72.
+LaTeX Info: Redefining \includegraphics on input line 73.
+LaTeX Info: Redefining \. on input line 73.
+LaTeX Info: Redefining \% on input line 73.
 
 Package pgfplots notification 'compat/show suggested version=true': you might b
 enefit from \pgfplotsset{compat=1.14} (current compat level: 1.9).
 
-\c@lstlisting=\count266
-(./ppt.nav) <fig/python.png, id=41, 83.65253pt x 84.5559pt>
+\c@lstlisting=\count267
+\c@mv@tabular=\count268
+\c@mv@boldtabular=\count269
+(./ppt.nav)
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/l/n' will be
+(Font)              scaled to size 6.0pt on input line 73.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/l/n' will be
+(Font)              scaled to size 8.0pt on input line 73.
+ <fig/python.png, id=45, 83.65253pt x 84.5559pt>
 File: fig/python.png Graphic file (type png)
 
 <use fig/python.png>
-Package pdftex.def Info: fig/python.png used on input line 74.
+Package pdftex.def Info: fig/python.png used on input line 75.
 (pdftex.def)             Requested size: 42.22311pt x 42.67912pt.
 
-Overfull \vbox (64.57912pt too high) detected at line 74
+Overfull \vbox (64.57912pt too high) detected at line 75
  []
 
-LaTeX Font Info:    Font shape `T1/fla/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/fla/b/n' tried instead on input line 74.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/l/n' will be
+(Font)              scaled to size 14.4pt on input line 75.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/b/n' will be
+(Font)              scaled to size 14.4pt on input line 75.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/l/n' will be
+(Font)              scaled to size 10.0pt on input line 75.
 
-Overfull \vbox (15.63992pt too high) detected at line 74
+Overfull \vbox (15.63992pt too high) detected at line 75
  []
 
 [1
@@ -1513,130 +1726,217 @@ Overfull \vbox (15.63992pt too high) detected at line 74
 g>] (./ppt.toc
 LaTeX Info: Redefining \. on input line 1.
 LaTeX Info: Redefining \% on input line 1.
-LaTeX Font Info:    Try loading font information for T1+cmtt on input line 6.
- (c:/texlive/2016/texmf-dist/tex/latex/base/t1cmtt.fd
-File: t1cmtt.fd 2014/09/29 v2.5h Standard LaTeX font definitions
+LaTeX Font Info:    Try loading font information for T1+FiraMono-TLF on input l
+ine 7.
+ (c:/texlive/2016/texmf-dist/tex/latex/fira/t1firamono-tlf.fd
+File: T1FiraMono-TLF.fd 2015/05/23 (autoinst) Font definitions for T1/FiraMono-
+TLF.
 )
-
-LaTeX Font Warning: Font shape `T1/cmtt/l/n' undefined
-(Font)              using `T1/cmtt/m/n' instead on input line 6.
-
+LaTeX Font Info:    Font shape `T1/FiraMono-TLF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 7.
 )
-LaTeX Font Info:    Font shape `T1/fla/bx/n' in size <12> not available
-(Font)              Font shape `T1/fla/b/n' tried instead on input line 78.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/l/n' will be
+(Font)              scaled to size 12.0pt on input line 79.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/b/n' will be
+(Font)              scaled to size 12.0pt on input line 79.
 File: fig/python.png Graphic file (type png)
- <use fig/python.png>
-Package pdftex.def Info: fig/python.png used on input line 78.
+<use fig/python.png>
+Package pdftex.def Info: fig/python.png used on input line 79.
 (pdftex.def)             Requested size: 22.51883pt x 22.76228pt.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/l/n' will be
+(Font)              scaled to size 4.0pt on input line 79.
  [2
 
 ]
-
-LaTeX Font Warning: Font shape `OT1/cmss/l/n' undefined
-(Font)              using `OT1/cmss/m/n' instead on input line 81.
-
-LaTeX Font Info:    Try loading font information for U+msa on input line 81.
-(c:/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
+LaTeX Font Info:    Try loading font information for U+msa on input line 82.
+ (c:/texlive/2016/texmf-dist/tex/latex/amsfonts/umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Try loading font information for U+msb on input line 81.
-
-(c:/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
+LaTeX Font Info:    Try loading font information for U+msb on input line 82.
+ (c:/texlive/2016/texmf-dist/tex/latex/amsfonts/umsb.fd
 File: umsb.fd 2013/01/14 v3.01 AMS symbols B
-) [3
+)
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/m/n' will be
+(Font)              scaled to size 10.95pt on input line 82.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/m/n' will be
+(Font)              scaled to size 8.0pt on input line 82.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/m/n' will be
+(Font)              scaled to size 6.0pt on input line 82.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/m/it' will be
+(Font)              scaled to size 10.95pt on input line 82.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/m/it' will be
+(Font)              scaled to size 8.0pt on input line 82.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/m/it' will be
+(Font)              scaled to size 6.0pt on input line 82.
+ [3
 
 ]
-LaTeX Font Info:    Try loading font information for OMS+fla on input line 99.
-LaTeX Font Info:    No file OMSfla.fd. on input line 99.
+LaTeX Font Info:    Try loading font information for TS1+FiraSans-LF on input l
+ine 100.
 
-
-LaTeX Font Warning: Font shape `OMS/fla/l/n' undefined
-(Font)              using `OMS/cmsy/m/n' instead
-(Font)              for symbol `textbullet' on input line 99.
-
+(c:/texlive/2016/texmf-dist/tex/latex/fira/ts1firasans-lf.fd
+File: TS1FiraSans-LF.fd 2016/11/12 (autoinst) Font definitions for TS1/FiraSans
+-LF.
+)
+LaTeX Font Info:    Font shape `TS1/FiraSans-LF/l/n' will be
+(Font)              scaled to size 10.95pt on input line 100.
+LaTeX Font Info:    Font shape `TS1/FiraSans-LF/l/n' will be
+(Font)              scaled to size 10.0pt on input line 100.
 File: fig/python.png Graphic file (type png)
+
 <use fig/python.png>
-Package pdftex.def Info: fig/python.png used on input line 99.
+Package pdftex.def Info: fig/python.png used on input line 100.
 (pdftex.def)             Requested size: 22.51883pt x 22.76228pt.
  [4
 
-] <fig/xkcd.png, id=85, 519.9425pt x 590.205pt>
+] <fig/xkcd.png, id=89, 519.9425pt x 590.205pt>
 File: fig/xkcd.png Graphic file (type png)
 
 <use fig/xkcd.png>
-Package pdftex.def Info: fig/xkcd.png used on input line 104.
+Package pdftex.def Info: fig/xkcd.png used on input line 105.
 (pdftex.def)             Requested size: 213.05087pt x 241.84842pt.
 
-Overfull \vbox (0.74974pt too high) detected at line 104
+Overfull \vbox (3.00772pt too high) detected at line 105
  []
 
 [5
 
  <./fig/xkcd.png>]
-LaTeX Font Info:    Font shape `T1/fla/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/fla/b/n' tried instead on input line 113.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/b/n' will be
+(Font)              scaled to size 10.95pt on input line 116.
 File: fig/python.png Graphic file (type png)
  <use fig/python.png>
-Package pdftex.def Info: fig/python.png used on input line 113.
+Package pdftex.def Info: fig/python.png used on input line 116.
 (pdftex.def)             Requested size: 22.51883pt x 22.76228pt.
  [6
 
 ]
-<fig/numpy.png, id=96, 50.1875pt x 50.1875pt>
+<fig/numpy.png, id=101, 50.1875pt x 50.1875pt>
 File: fig/numpy.png Graphic file (type png)
  <use fig/numpy.png>
-Package pdftex.def Info: fig/numpy.png used on input line 136.
+Package pdftex.def Info: fig/numpy.png used on input line 139.
 (pdftex.def)             Requested size: 28.45323pt x 28.45274pt.
 
-<fig/scipy.png, id=97, 64.24pt x 64.24pt>
+<fig/scipy.png, id=102, 64.24pt x 64.24pt>
 File: fig/scipy.png Graphic file (type png)
  <use fig/scipy.png>
-Package pdftex.def Info: fig/scipy.png used on input line 136.
+Package pdftex.def Info: fig/scipy.png used on input line 139.
 (pdftex.def)             Requested size: 28.4529pt x 28.45274pt.
 
-<fig/matplotlib.png, id=98, 57.816pt x 57.816pt>
+<fig/matplotlib.png, id=103, 57.816pt x 57.816pt>
 File: fig/matplotlib.png Graphic file (type png)
  <use fig/matplotlib.png>
-Package pdftex.def Info: fig/matplotlib.png used on input line 136.
+Package pdftex.def Info: fig/matplotlib.png used on input line 139.
 (pdftex.def)             Requested size: 28.4527pt x 28.45274pt.
 
-<fig/pandas.jpg, id=99, 50.1875pt x 50.1875pt>
+<fig/pandas.jpg, id=104, 50.1875pt x 50.1875pt>
 File: fig/pandas.jpg Graphic file (type jpg)
  <use fig/pandas.jpg>
-Package pdftex.def Info: fig/pandas.jpg used on input line 136.
+Package pdftex.def Info: fig/pandas.jpg used on input line 139.
 (pdftex.def)             Requested size: 28.45323pt x 28.45274pt.
 
-<fig/ipython.png, id=100, 140.525pt x 140.525pt>
+<fig/ipython.png, id=105, 140.525pt x 140.525pt>
 File: fig/ipython.png Graphic file (type png)
  <use fig/ipython.png>
-Package pdftex.def Info: fig/ipython.png used on input line 136.
+Package pdftex.def Info: fig/ipython.png used on input line 139.
 (pdftex.def)             Requested size: 28.45186pt x 28.45274pt.
 File: fig/python.png Graphic file (type png)
 
 <use fig/python.png>
-Package pdftex.def Info: fig/python.png used on input line 136.
+Package pdftex.def Info: fig/python.png used on input line 139.
 (pdftex.def)             Requested size: 22.51883pt x 22.76228pt.
  [7
 
  <./fig/numpy.png> <./fig/scipy.png> <./fig/matplotlib.png> <./fig/pandas.jpg> 
 <./fig/ipython.png>]
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/l/n' will be
+(Font)              scaled to size 9.0pt on input line 153.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/m/n' will be
+(Font)              scaled to size 9.0pt on input line 153.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/m/n' will be
+(Font)              scaled to size 5.0pt on input line 153.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/m/it' will be
+(Font)              scaled to size 9.0pt on input line 153.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/m/it' will be
+(Font)              scaled to size 5.0pt on input line 153.
 File: fig/python.png Graphic file (type png)
  <use fig/python.png>
-Package pdftex.def Info: fig/python.png used on input line 150.
+Package pdftex.def Info: fig/python.png used on input line 153.
 (pdftex.def)             Requested size: 22.51883pt x 22.76228pt.
  [8
 
 ] [9
 
 ]
-LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <14.4> not available
-(Font)              Font shape `T1/cmtt/m/n' tried instead on input line 155.
+File: fig/python.png Graphic file (type png)
 
-[10
+<use fig/python.png>
+Package pdftex.def Info: fig/python.png used on input line 166.
+(pdftex.def)             Requested size: 22.51883pt x 22.76228pt.
+ [10
 
-] [11
+]
+File: fig/python.png Graphic file (type png)
+ <use fig/python.png>
+Package pdftex.def Info: fig/python.png used on input line 184.
+(pdftex.def)             Requested size: 22.51883pt x 22.76228pt.
+ [11
 
-] [12
+]
+LaTeX Font Info:    Font shape `T1/FiraMono-TLF/b/n' will be
+(Font)              scaled to size 10.95pt on input line 194.
+
+(c:/texlive/2016/texmf-dist/tex/latex/listings/lstlang1.sty
+File: lstlang1.sty 2015/06/04 1.6 listings language file
+) (./code/if.py)
+File: fig/python.png Graphic file (type png)
+
+<use fig/python.png>
+Package pdftex.def Info: fig/python.png used on input line 194.
+(pdftex.def)             Requested size: 22.51883pt x 22.76228pt.
+ [12
+
+] (./code/for.py
+
+LaTeX Font Warning: Font shape `T1/FiraMono-TLF/m/it' undefined
+(Font)              using `T1/FiraMono-TLF/m/n' instead on input line 8.
+
+LaTeX Font Info:    Font shape `T1/FiraMono-TLF/m/it' will be
+(Font)              scaled to size 10.95pt on input line 8.
+)
+File: fig/python.png Graphic file (type png)
+ <use fig/python.png>
+Package pdftex.def Info: fig/python.png used on input line 202.
+(pdftex.def)             Requested size: 22.51883pt x 22.76228pt.
+
+Overfull \vbox (16.10445pt too high) detected at line 202
+ []
+
+[13
+
+]
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/b/sl' in size <10.95> not availa
+ble
+(Font)              Font shape `T1/FiraSans-LF/b/it' tried instead on input lin
+e 210.
+LaTeX Font Info:    Font shape `T1/FiraSans-LF/b/it' will be
+(Font)              scaled to size 10.95pt on input line 210.
+ (./code/list_comprehension.py)
+File: fig/python.png Graphic file (type png)
+ <use fig/python.png>
+Package pdftex.def Info: fig/python.png used on input line 210.
+(pdftex.def)             Requested size: 22.51883pt x 22.76228pt.
+ [14
+
+]
+LaTeX Font Info:    Font shape `T1/FiraMono-TLF/b/n' will be
+(Font)              scaled to size 14.4pt on input line 212.
+ [15
+
+] [16
+
+]
+[17
 
 ]
 \tf@nav=\write6
@@ -1648,40 +1948,41 @@ LaTeX Font Info:    Font shape `T1/cmtt/bx/n' in size <14.4> not available
 \tf@snm=\write8
 \openout8 = `ppt.snm'.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 161.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 161.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 218.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 218.
  (./ppt.aux
 LaTeX Info: Redefining \. on input line 23.
 LaTeX Info: Redefining \% on input line 23.
 )
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 161.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 161.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 218.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 218.
 Package rerunfilecheck Info: File `ppt.out' has not changed.
-(rerunfilecheck)             Checksum: BDBB1FFB614F09049CA5DEEE5DF4C1A4;417.
+(rerunfilecheck)             Checksum: E446DEC82D2BF8B9671FAAA8CACE02E6;488.
 
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
  ) 
 Here is how much of TeX's memory you used:
- 33285 strings out of 493013
- 777441 string characters out of 6136993
- 961720 words of memory out of 5000000
- 36076 multiletter control sequences out of 15000+600000
- 105341 words of font info for 84 fonts, out of 8000000 for 9000
+ 34903 strings out of 493013
+ 804112 string characters out of 6136993
+ 987455 words of memory out of 5000000
+ 37644 multiletter control sequences out of 15000+600000
+ 348351 words of font info for 84 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 64i,13n,98p,1919b,725s stack positions out of 5000i,500n,10000p,200000b,80000s
-{c:/texlive/2016/texmf-dist/fonts/enc/dvips/cm-super/cm-super-t1.enc}{c:/texl
-ive/2016/texmf-dist/fonts/enc/dvips/lato/lato-02.enc}{c:/texlive/2016/texmf-dis
-t/fonts/enc/dvips/lato/lato-01.enc}<c:/texlive/2016/texmf-dist/fonts/type1/publ
-ic/lato/Lato-Bol.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/lato/Lato-L
-ig.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb><c
-:/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sftt1095.pfb><c:/texlive/
-2016/texmf-dist/fonts/type1/public/cm-super/sftt1440.pfb>
-Output written on ppt.pdf (12 pages, 256546 bytes).
+ 64i,13n,98p,1919b,1617s stack positions out of 5000i,500n,10000p,200000b,80000s
+{c:/texlive/2016/texmf-dist/fonts/enc/dvips/fira/fir_pre736.enc}{c:/texlive/2
+016/texmf-dist/fonts/enc/dvips/fira/fir_4vuazg.enc}{c:/texlive/2016/texmf-dist/
+fonts/enc/dvips/fira/fir_junpg2.enc}<c:/texlive/2016/texmf-dist/fonts/type1/pub
+lic/fira/FiraMono-Bold.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/fira/
+FiraMono-Regular.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/fira/FiraSa
+ns-Bold.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/fira/FiraSans-BoldIt
+alic.pfb><c:/texlive/2016/texmf-dist/fonts/type1/public/fira/FiraSans-Light.pfb
+><c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb>
+Output written on ppt.pdf (17 pages, 571340 bytes).
 PDF statistics:
- 168 PDF objects out of 1000 (max. 8388607)
- 129 compressed objects within 2 object streams
- 32 named destinations out of 1000 (max. 500000)
- 134 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 205 PDF objects out of 1000 (max. 8388607)
+ 160 compressed objects within 2 object streams
+ 43 named destinations out of 1000 (max. 500000)
+ 142 words of extra memory for PDF output out of 10000 (max. 10000000)
 
