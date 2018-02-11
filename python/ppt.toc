@@ -4,5 +4,5 @@
 \beamer@subsectionintoc {1}{2}{Programaci\IeC {\'o}n orientada a objetos}{8}{0}{1}
 \beamer@sectionintoc {2}{Sintaxis b\IeC {\'a}sica de Python}{9}{0}{2}
 \beamer@sectionintoc {3}{Numpy: el \texttt {ndarray}}{19}{0}{3}
-\beamer@sectionintoc {4}{Scipy}{20}{0}{4}
-\beamer@sectionintoc {5}{Matplotlib.pyplot}{21}{0}{5}
+\beamer@sectionintoc {4}{Scipy}{24}{0}{4}
+\beamer@sectionintoc {5}{Matplotlib.pyplot}{31}{0}{5}

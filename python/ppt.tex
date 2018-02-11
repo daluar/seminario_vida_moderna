@@ -6,6 +6,7 @@
 \usepackage{booktabs}
 \usepackage{pgfplots}
 \usepackage{subfigure}
+\usepackage{physics}
 % \usepackage{titling} % adds \theauthor \thetitle etc
 \usepgfplotslibrary{dateplot}
 
@@ -238,7 +239,115 @@
 
 \section{Numpy: el \texttt{ndarray}}
 
+\begin{frame}\frametitle{El \texttt{ndarray}}
+	\begin{itemize}
+		\item Es un clase eficiente para computación en \textsl{arrays}.
+		\item Almacenan cualquier tipo, pero en todos los elementos el mismo.
+		\item Atributos y métodos más útiles:
+		\begin{itemize}
+			\item \texttt{ndims}: entero con el número de dimensiones.
+			\item \texttt{shape}: tupla con la forma.
+			\item \texttt{reshape()}: cambia la forma según la tupla introducida.
+			\item \texttt{T}: traspuesta
+			\item \url{https://docs.scipy.org/doc/numpy/reference/generated/numpy.ndarray.html}
+		\end{itemize}
+	\end{itemize}
+\end{frame}
+
+\begin{frame}\frametitle{El \texttt{ndarray}}
+	\begin{itemize}
+		\item \texttt{np.array([1, 2, 3])}
+		\item \texttt{np.zeros((2,))}
+		\item \texttt{np.ones((2, 1))}
+		\item \texttt{np.zeros\_like(a)}
+		\item \texttt{np.empty((3, 4))}
+		\item \texttt{np.linspace(0, 1, 6)}
+	\end{itemize}
+\end{frame}
+
+\begin{frame}{Slicing}
+	\includegraphics[width=\textwidth]{fig/slicing.png}
+\end{frame}
+
+\begin{frame}{Operaciones}
+	\begin{itemize}
+		\item \texttt{+}, \texttt{-}, \texttt{*}, \texttt{**}... funcionan \textsl{element-wise}
+		\item El producto interno se puede hacer de varias maneras: \texttt{A.dot(B)}, \texttt{np.dot(A,B)}, \texttt{A @ B} (multiplicación de matrices de toda la vida)
+	\end{itemize}
+\end{frame}
+
 \section{Scipy}
+
+\begin{frame}{Submódulos útiles}
+	\begin{columns}
+		\begin{column}{0.5\textwidth}
+			\begin{itemize}
+				\item \texttt{scipy.linalg}\\ Álgebra lineal.
+				\item \texttt{scipy.integrate}\\ Integración de integrales y EDOs.
+				\item \texttt{scipy.optimize}\\ \textsl{solvers} para ecuaciones no lineales y optimizadores.
+				\item \texttt{scipy.sparse}\\ Matrices dispersas.
+				\item \texttt{scipy.constants}\\ Constantes.
+			\end{itemize}
+		\end{column}
+		\begin{column}{0.5\textwidth}
+			\includegraphics[width=\textwidth]{fig/scipy_api.png}
+		\end{column}
+	\end{columns}
+\end{frame}
+
+\begin{frame}\frametitle{\texttt{scipy.integrate}: integrales}
+	
+	\begin{block}{Integral de una función}
+
+	$$ I = \int_0^{4.5} J_{2.5}(x)\dd{x}$$
+
+		\lstinputlisting[language=Python]{code/quad.py}
+	\end{block}
+\end{frame}
+
+\begin{frame}\frametitle{\texttt{scipy.integrate}: integrales}
+	\begin{block}{Integral de una serie de datos}
+		\lstinputlisting[language=Python]{code/trapz.py}
+	\end{block}
+\end{frame}
+
+\begin{frame}\frametitle{\texttt{scipy.integrate}: EDOs}
+	\begin{gather*}
+		\dv[2]{w}{z} - z w(z) = 0\\
+		w(0) = \frac{1}{\sqrt[3]{3^2}\;\cdot\; \Gamma\left(\frac{2}{3}\right)}\\
+		\left.\dv{w}{z}\right|_{z=0} = - \frac{1}{\sqrt[3]{3}\;\cdot\; \Gamma\left(\frac{1}{3}\right)}\\
+		\quad \\
+		\text{Solución: } w(z) = \mathrm{Ai}(z)
+	\end{gather*}
+\end{frame}
+
+\begin{frame}\frametitle{\texttt{scipy.integrate}: EDOs}
+	\begin{gather*}
+		\vb{y} = \begin{Bmatrix}
+			w \\
+			\dv{w}{z}
+		\end{Bmatrix} \\
+		\dv{}{z} 
+		\begin{Bmatrix}
+			y_0 \\ y_1
+		\end{Bmatrix}
+		= 
+		\begin{bmatrix}
+			0 & 1 \\
+			z & 0 \\
+		\end{bmatrix}  
+		\begin{Bmatrix}
+			y_0 \\ y_1
+		\end{Bmatrix}
+	\end{gather*}
+\end{frame}
+
+\begin{frame}\frametitle{\texttt{scipy.integrate}: EDOs}
+	\begin{block}{EDO}
+		% \lstinputlisting[language=Python]{code/odeint.py}
+	\end{block}
+\end{frame}
+
 
 \section{Matplotlib.pyplot}
 
