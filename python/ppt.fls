@@ -681,6 +681,11 @@ INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/fira/FiraSans-Bold-lf-t1.tfm
 INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/fira/FiraSans-Bold-lf-t1.tfm
 INPUT fig/python.png
 INPUT ./fig/python.png
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/fira/FiraSans-BoldItalic-lf-t1.tfm
+INPUT fig/python.png
+INPUT ./fig/python.png
+INPUT c:/texlive/2016/texmf-dist/fonts/vf/public/fira/FiraSans-BoldItalic-lf-t1.vf
+INPUT c:/texlive/2016/texmf-dist/fonts/tfm/public/fira/FiraSans-BoldItalic-lf-t1--base.tfm
 OUTPUT ppt.nav
 OUTPUT ppt.toc
 OUTPUT ppt.snm
@@ -701,9 +706,12 @@ INPUT c:/texlive/2016/texmf-dist/fonts/type1/public/fira/FiraSans-Light.pfb
 INPUT c:/texlive/2016/texmf-dist/fonts/type1/public/fira/FiraSans-LightItalic.pfb
 INPUT c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmex10.pfb
 INPUT c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi10.pfb
+INPUT c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi6.pfb
 INPUT c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmmi8.pfb
 INPUT c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss10.pfb
 INPUT c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmss8.pfb
 INPUT c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb
+INPUT c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy6.pfb
+INPUT c:/texlive/2016/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy8.pfb
 INPUT c:/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm0800.pfb
 INPUT c:/texlive/2016/texmf-dist/fonts/type1/public/cm-super/sfrm1095.pfb
